@@ -24,6 +24,6 @@ Du skal hente [certifikatet](../ilbrando.cer) og installere det under
 **3 Vælg at certifikatet installeres i *rusted Root Certificate Authorities***
 ![install 1](install-03.png)
 
-**4 Klik *Next* indtil guiden er afsluttet.
+**4 Klik *Next* indtil guiden er afsluttet.**
 
 [Download WebDev](https://ilbrando.blob.core.windows.net/webdev/WebDev.msix) og installer programmet.
